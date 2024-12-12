@@ -4,7 +4,7 @@ This project demonstrates a simple Search as You Type implementation using Elast
 
 Requirements
 
-1. Prerequisites
+1. Prerequisites 
 
 Node.js and npm installed on your machine.
 
